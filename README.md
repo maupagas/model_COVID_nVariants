@@ -27,5 +27,5 @@ For all runs, the user must add to the MATLAB path the folder `model-COVID-nVari
 For a single run of the model,execute the file `runSimVariants.m`. The parameters of the model can be changed at `./input-files/modelParameters.xlsx` and `data_AD_model.xlsx`.
 
 ### Run Sensitivity Analysis
-To conduct a sensitivity analysis, execute the file ``runSensitivity_LHS_all`. Initial values for sensitivity analysis are stored in the file `./input-files/modelParameters_sensitivity.xlsx`. 
+To conduct a sensitivity analysis, execute the file `runSensitivity_LHS_all`. Initial values for sensitivity analysis are stored in the file `./input-files/modelParameters_sensitivity.xlsx`. 
 
